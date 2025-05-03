@@ -1,8 +1,5 @@
-# RealLifeProblem
-# RealLifeProblem
 
-
-# Human-Like Email Sender (Python)
+## Human-Like Email Sender (Python)
 
 A tiny Python project to send **100+ personalized emails** without landing in spam — by mimicking how a real human would send them.  
 Minimal code, real-world value.

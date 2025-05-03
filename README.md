@@ -1,7 +1,7 @@
 
 ## Human-Like Email Sender (Python)
 
-A tiny Python project to send **100+ personalized emails** without landing in spam — by mimicking how a real human would send them.  
+A tiny Python project to send **50+ personalized emails** without landing in spam — by mimicking how a real human would send them.  
 Minimal code, real-world value.
 
 ---
@@ -11,14 +11,14 @@ Minimal code, real-world value.
 Traditional methods like **Mail Merge** or using bulk email services often:
 - Trigger spam filters
 - Send all emails at once (unnaturally fast)
-- Lack personalization
+- Lack of personalization
 - Rely on external platforms or APIs
 
-When sending academic or personal updates to 100+ students, deliverability and a natural human touch are critical.
+Deliverability and a natural human touch are critical when sending academic or personal updates to 50+ students.
 
 ---
 
-## Our Solution
+## My Solution
 
 This project uses a **simple Python script** to:
 - Read recipient data from a CSV file
@@ -41,9 +41,9 @@ This project uses a **simple Python script** to:
 
 ## Example CSV (`students.csv`)
 ```csv
-name,email,course
-Alice Johnson,alice@example.com,Mathematics
-Bob Smith,bob@example.com,Physics
+name, email, course
+Alice Johnson,alice@example.com, Mathematics
+Bob Smith,bob@example.com, Physics
 ...
 ```
 

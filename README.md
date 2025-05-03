@@ -113,11 +113,6 @@ Press `Ctrl + C` at any time. The script handles it gracefully.
 
 ## UI Preview
 
-https://github.com/user-attachments/assets/978a95f2-5e3c-48bc-bb96-d761d63ed8ff
-
-
-## License
-
-MIT — free to use, modify, and share.
+https://github.com/user-attachments/assets/6ec32253-caec-4fd1-a2c9-f6b204b973af
 
 
